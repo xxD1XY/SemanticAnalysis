@@ -1,0 +1,5 @@
+torch==1.10.0
+streamlit==0.84.0
+transformers==4.10.2
+matplotlib==3.4.3
+pandas==1.3.5
